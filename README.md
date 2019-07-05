@@ -6,7 +6,8 @@
 Vertically chrnollogically ordered
 #Works library
 
--Project I (Raiden 1990) [Jun 2017]
+ - Project I (Raiden 1990) [Jun 2017]: A 2D vertical scrolling spaceship shooter game, based on the popular game Raiden (1990). It contains a fully playable level with 3 types of enemies and different upgrades to your ship. Made by scratch with SDL2 as a project work for the subject Project I of the Bachelor's Degree of Design and Development of Videogames, 1st year.
+
 -Game development (Cave Night) [Dec 2017]
 -Race Game [Jan 2018]
 -Project II ( Shadow over Mystara)[Dec 2017]
