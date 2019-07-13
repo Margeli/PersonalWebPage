@@ -39,8 +39,8 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
     - Pathfinding graph of the enemies
  
 - Game Jams: During the degree I voluntarelly participated in 3 Game Jams. 
-     - Barcelona Games Week <Oct 2017> [Don't Smile](https://github.com/Margeli/dont-smile-by-petabytes) A 2D vertical scrolling made in our first versions of our own Engine. 
-     - Gran CITM Jam <Jan 2019> [Wolf Game](https://github.com/Margeli/PetaBytes) A 2D game made by Unity where you are a wolf that need to scare all the animals in the farm. 
-     - Gran CITM Jam <Jun 2019> [Deep](https://github.com/Margeli/GranCITMJam_2) A 3D game made by Unity of a submarine that need to clean nuclear waste in a cave with different obstacles. Winner of the "BEST TECHNOLOGY" prize in the game jam.
+     - [Don't Smile](https://github.com/Margeli/dont-smile-by-petabytes) Barcelona Games World <Oct 2017>  A 2D vertical scrolling made in our first versions of our own Engine. 
+     - [Wolf Game](https://github.com/Margeli/PetaBytes) Gran CITM Jam <Jan 2019>  A 2D game made by Unity where you are a wolf that need to scare all the animals in the farm. 
+     - [Deep](https://github.com/Margeli/GranCITMJam_2) Gran CITM Jam 2 <Jun 2019> A 3D game made by Unity of a submarine that need to clean nuclear waste in a cave with different obstacles. Winner of the "BEST TECHNOLOGY" prize in the game jam.
 
 
