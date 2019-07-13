@@ -32,12 +32,12 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
 
  - [Malita](https://typhoonstudio.itch.io/malita) <Jun 2019>: A 3D Game fast-paced beat 'em up game inspired by the universe of Battle Angel Alita. Made by scratch in our own engine [Project Atlas](https://github.com/project-3-bcn-2019/Project-Atlas) made by the whole class in the subject Project III of the 3rd year of the degree.  
 
-  In Project III I have taken care of:
-   - Engine core development
-   - Engine UI system
-   - Engine pathfinding editor
-   - Pathfinding graph of the enemies
+   In Project III I have taken care of:
+    - Engine core development
+    - Engine UI system
+    - Engine pathfinding editor
+    - Pathfinding graph of the enemies
  
- - Game Jams? 3 (Deep)<Oct 2017><Jan 2019><Jun 2019>
+- Game Jams? 3 (Deep)<Oct 2017><Jan 2019><Jun 2019>
 
 
