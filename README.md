@@ -25,6 +25,7 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
     - Intro Settings
     - Input buttons
     - Reading sprites animations data from .xml & .tmx
+    
 
  - [3D Engine](https://github.com/Normanbg/3dEngine) <Dec 2018>: A 3D Game Engine based on Unity, capable of loading models and textures in different formats. Focused in the UI system. Developed in 3 months, in pairs, made by scratch in C++ and different libraries like OpenGl, DevIl, MathGeoLib, TrueType... for the 3D Engines subject of the 3rd year of the degree. 
  
@@ -32,11 +33,12 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
 
  - [Malita](https://typhoonstudio.itch.io/malita) <Jun 2019>: A 3D Game fast-paced beat 'em up game inspired by the universe of Battle Angel Alita. Made by scratch in our own engine [Project Atlas](https://github.com/project-3-bcn-2019/Project-Atlas) made by the whole class in the subject Project III of the 3rd year of the degree.  
 
-   In Project III I have taken care of:
+   In Malita I have taken care of:
     - Engine core development
     - Engine UI system
     - Engine pathfinding editor
     - Pathfinding graph of the enemies
+    
  
 - Game Jams: During the degree I voluntarelly participated in 3 Game Jams. 
      - [Don't Smile](https://github.com/Margeli/dont-smile-by-petabytes): Barcelona Games World <Oct 2017>  A 2D vertical scrolling made in our first versions of our own Engine. 
