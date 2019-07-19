@@ -47,8 +47,12 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
  - [3D Engine](https://github.com/Normanbg/3dEngine) <Dec 2018>: A 3D Game Engine based on Unity, capable of loading models and textures in different formats. Focused in the UI system. Developed in 3 months, in pairs, made by scratch in C++ and different libraries like OpenGl, DevIl, MathGeoLib, TrueType... for the 3D Engines subject of the 3rd year of the degree. 
  
  - [GrasShop](https://grasshop420.wixsite.com/website) <Dec 2018>: A 3D Game god game where the player manages a cannabic club to survive 7 days without losings. Focused in the AI of the behavioors of the characters of the game. Made in Unity for the the Artificial Intelligence subject of the 3rd year.
+     
+      ![alt text](Images/grass1.png)
+![alt text](Images/grass2.png)
 
- - [Malita](https://typhoonstudio.itch.io/malita) <Jun 2019>: A 3D Game fast-paced beat 'em up game inspired by the universe of Battle Angel Alita. Made by scratch in our own engine [Project Atlas](https://github.com/project-3-bcn-2019/Project-Atlas) made by the whole class in the subject Project III of the 3rd year of the degree.  
+
+ - [Malita](https://typhoonstudio.itch.io/malita) <Jun 2019>: A 3D Game fast-paced beat 'em up game inspired by the universe of Battle Angel Alita. Made by scratch in our own engine [Project Atlas](https://github.com/project-3-bcn-2019/Project-Atlas) made by the whole class in the subject Project III of the 3rd year of the degree. [YouTube Trailer](https://www.youtube.com/watch?v=KB4pY7UspHc)
 
    In Malita I have taken care of:
     - Engine core development
@@ -56,6 +60,8 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
     - Engine pathfinding editor
     - Pathfinding graph of the enemies
     
+         ![alt text](Images/malita1.png)
+![alt text](Images/malita2.png)    
  
 - Game Jams: During the degree I voluntarelly participated in 3 Game Jams. 
      - [Don't Smile](https://github.com/Margeli/dont-smile-by-petabytes): Barcelona Games World <Oct 2017>  A 2D vertical scrolling made in our first versions of our own Engine. 
