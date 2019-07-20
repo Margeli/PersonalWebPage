@@ -46,6 +46,10 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
 
  - [3D Engine](https://github.com/Normanbg/3dEngine) <Dec 2018>: A 3D Game Engine based on Unity, capable of loading models and textures in different formats. Focused in the UI system. Developed in 3 months, in pairs, made by scratch in C++ and different libraries like OpenGl, DevIl, MathGeoLib, TrueType... for the 3D Engines subject of the 3rd year of the degree. 
  
+      ![alt text](Images/engine1.png)
+![alt text](Images/engine2.png)
+![alt text](Images/engine3.png)
+ 
  - [GrasShop](https://grasshop420.wixsite.com/website) <Dec 2018>: A 3D Game god game where the player manages a cannabic club to survive 7 days without losings. Focused in the AI of the behavioors of the characters of the game. Made in Unity for the the Artificial Intelligence subject of the 3rd year.
      
       ![alt text](Images/grass1.png)
