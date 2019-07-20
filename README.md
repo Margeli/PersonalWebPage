@@ -4,10 +4,6 @@
 
 Im Carles Margeli, current student of the Bachelor's Degree of Design and Development of Videogames of the UPC in Barcelona. During the course I have made some projects for the university subjects and in addition some personal work. It can be seen the process of learning and difficulty of the games made, increasing by the time. This is my library of work ordered chronollogically.
 
-//Vertically chrnollogically ordered.//
-
-//Link repo + screenshots or videos//
-
 ## Works library
 
  - [Raiden 1990](https://github.com/Margeli/Raiden1990) <Jun 2017>: A 2D vertical scrolling spaceship shooter game, based on the popular game Raiden (1990). It contains a fully playable level with 3 types of enemies and different upgrades to your ship. Made by scratch in C++ language with SDL2 library as a project work for the subject Project I of the Bachelor's Degree of Design and Development of Videogames, 1st year. [YouTube Link](https://www.youtube.com/watch?v=EJwJTQpdpZE&feature=youtu.be)
@@ -15,7 +11,6 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
      ![alt text](Images/raiden1.png)
 ![alt text](Images/raiden2.png)
 ![alt text](Images/raiden3.png) 
-
  
  
  
@@ -48,7 +43,6 @@ Im Carles Margeli, current student of the Bachelor's Degree of Design and Develo
  
       ![alt text](Images/engine1.png)
 ![alt text](Images/engine2.png)
-![alt text](Images/engine3.png)
  
  - [GrasShop](https://grasshop420.wixsite.com/website) <Dec 2018>: A 3D Game god game where the player manages a cannabic club to survive 7 days without losings. Focused in the AI of the behavioors of the characters of the game. Made in Unity for the the Artificial Intelligence subject of the 3rd year.
      
